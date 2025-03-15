@@ -59,7 +59,7 @@ __Tutoriel sur les formulaires du w3c__
 [Table des matières (outline)](images/2-table-des-matieres_h1-h6/2-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
-
+il manque un h1 qui n'a pas de texte, les h2 pourrais être une liste ul au lieu de chacun etre des h2, il y a 2 élément h1 qui devrait etre des h2 si ceux ci ne sont pas le titre de la page
 ----
 ----
 ----
